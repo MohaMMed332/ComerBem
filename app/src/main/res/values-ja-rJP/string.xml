@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="chat">japo/chat/grupos</string>
+    <string name="comments">japo/chat/comments</string>
+    <string name="Grupos">japo/chat/Grupos</string>
+    <string name="patepabo">japo/chat/public</string>
+    <string name="Word">japo/Word/public</string>
+    <string name="Resitas">japo/Resitas/</string>
+    <string name="categoria">japo/categoria/food</string>
+    <string name="categoriaGrupos">japo/categoria/Grupos</string>
+
+
+
+    <string name="Confirme_a_saهda">終了を確認</string>
+    <string name="Upload_de_imagem">画像がアップロードされました</string>
+    <string name="Sair_da_conta">アカウントからログアウトする</string>
+    <string name="Você_realmente_quer_sair_da_conta">あなたは本当にアカウントを離れたいですか</string>
+    <string name="app_name">よく食べる</string>
+    <string name="Comer_Bem"> よく食べる</string>
+    <string name="Deliciosas_receitas">おいしいレシピ</string>
+    <string name="Faça_o_seu_pedido">注文する</string>
+    <string name="O_poder_dos_alimentos">食糧の力</string>
+    <string name="Estamos_a_disposição">私たちはあなたの処分にあります</string>
+    <string name="Sugestões">提案</string>
+    <string name="Benefícios_de_uma_alimentação_saudável">健康的な食事のメリット</string>
+    <string name="Quanto_mais_cor_melhor">より多くの色、より良い</string>
+    <string name="Crie_sua_conta_grátis">無料アカウントを作成する</string>
+    <string name="Junte_se_a_mais_de_meio_milhão_de_pessoas_e_comece_ja">50万人以上の人と一緒に参加して今すぐ始めましょう</string>
+    <string name="Cadastro">登録</string>
+    <string name="Já_tenho_conta">私はすでにアカウントを持っています</string>
+    <string name="Nome">名前</string>
+    <string name="Email">メール</string>
+    <string name="Telefone">電話番号</string>
+    <string name="Senha">パスワード</string>
+    <string name="Confirmar_senha">パスワードを確認する</string>
+    <string name="Cadastrar">登録</string>
+    <string name="Termos_de_uso">利用規約</string>
+    <string name="Entrar">サインイン</string>
+    <string name="Publicações">ニュース＆イベント</string>
+    <string name="Perfil">プロフィールを見る</string>
+    <string name="Chat">チャット</string>
+    <string name="Mais">その他の記事</string>
+    <string name="Suporte">サポート</string>
+    <string name="Fechar_o_menu">メニューを閉じる</string>
+    <string name="Sobre_o_APP">APPについて</string>
+    <string name="Fale_conosco">お問い合わせ</string>
+    <string name="Sair">出口</string>
+    <string name="Digite_aqe">ここに入力...</string>
+    <string name="Nome_da_receita">レシピ名</string>
+    <string name="Ingredientes">成分</string>
+    <string name="Modo_de_Preparo">準備の方法</string>
+    <string name="Apagar_mensagem">メッセージを削除する</string>
+    <string name="Tem_certeza_que_quer_apagar_esta_mensagem">このメッセージを削除してもよろしいですか</string>
+    <string name="Sim">はい</string>
+    <string name="Não">しないでください</string>
+    <string name="Carregando">読み込み中</string>
+    <string name="não_carregou">アップロードしなかった</string>
+    <string name="Tem_certeza_que_quer_sair">あなたは出たいと思っていますか</string>
+    <string name="Entrou">来た</string>
+    <string name="Desconhecido">不明</string>
+    <string name="Favor_preencher">記入してください</string>
+    <string name="Carregamento_completo">フルアップロード</string>
+    <string name="Preencher_a_senha">パスワードを入力してください</string>
+    <string name="Preencher_o_email">メールを入力してください</string>
+    <string name="Preencher_o_nome">名前を記入してください</string>
+    <string name="Preencher_o_telefone">電話を埋める</string>
+    <string name="Digite_uma_senha_mais_forte">強力なパスワードを入力してください</string>
+    <string name="Por_favor_digite_um_email_válido">有効なメールアドレスを入力してください</string>
+    <string name="Esta_conta_já_foi_cadastrada">このアカウントは既に登録されています</string>
+    <string name="Erro_ao_cadastrar">登録エラー</string>
+    <string name="Não_pod_carregar_este_tamanho_de_imagem">この画像サイズはアップロードできません</string>
+    <string name="Cancelar">キャンセル</string>
+    <string name="Usuário_não_cadastrado">ユーザーはオフラインです</string>
+    <string name="Email_e_senha_não_correspondem_a_um_usuário_cadastrado">電子メールとパスワードが登録ユーザーと一致しません</string>
+    <string name="Erro_ao_cadastrar_usuário">ユーザーの登録エラー</string>
+    <string name="Sem_conexão">接続なし</string>
+    <string name="Favor_deixar_seu_comentário">あなたのコメントを残してください</string>
+    <string name="AboutText"> ブラジルの食べ物の最高の食材に恵まれた健康的なレシピを提示し、良い形と健康を備えたテーブルの楽しさのバランスを考慮に入れたアプリケーション。ベジタリアン料理、家禽、肉、デザート、リゾットと伴奏、食事と光、パスタ、魚介類、バーベキューとグリル、スターターと特別なディナー。一日のうちに健康的で楽しい食事を探しているすべての人々のためのヒントを持つ実用的なガイド。</string>
+
+    <string name="Sobre_Comer_Bem">よく食べることについて</string>
+    <string name="Comer_Bem_v">よく食べるバージョン</string>
+
+
+
+
+
+
+
+</resources>

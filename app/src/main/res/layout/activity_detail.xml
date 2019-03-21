@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:simple="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background_comment"
+    android:orientation="vertical"
+    tools:context=".food.DetailActivity">
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="@dimen/space24"
+                android:layout_marginRight="@dimen/space24"
+                android:layout_marginTop="12dp"
+                android:background="#F44336"
+                android:gravity="center"
+                app:corner_radius="16dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <net.wujingchao.android.view.SimpleTagImageView
+                            android:id="@+id/detail_imge"
+                            android:layout_width="match_parent"
+                            android:layout_height="220dp"
+                            android:src="@drawable/png_natal"
+                            simple:simple_corner_distance="30dp"
+                            simple:simple_tag_background_color="#af27CDC0"
+                            simple:simple_tag_enable="true"
+                            simple:simple_tag_orientation="left_bottom"
+                            simple:simple_tag_round_radius="20dp"
+                            simple:simple_tag_textColor="@android:color/white"
+                            simple:simple_tag_textSize="18sp"
+                            simple:simple_tag_width="20dip" />
+
+                        <!-- simple:simple_tag_text="novo"!-->
+
+
+                        <TextView
+                            android:id="@+id/show_name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="@dimen/space16"
+                            android:background="@drawable/textstyle"
+                            android:drawablePadding="@dimen/space8"
+                            android:gravity="center"
+                            android:padding="15dp"
+                            android:text="@string/Nome_da_receita"
+                            android:textColor="#333333"
+                            android:textSize="17sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="12dp"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:gravity="center"
+                            android:hint="Modo"
+                            android:paddingBottom="15dp"
+                            android:paddingTop="15dp"
+                            android:text="@string/Ingredientes"
+                            android:textColor="#ffffffff"
+                            android:textSize="17sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/show_ingredientes"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:hint="-1"
+                            android:padding="15dp"
+                            android:text="-1"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="normal|bold" />
+
+                        <TextView
+                            android:id="@+id/show_ingredientes2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:hint="-2"
+                            android:padding="15dp"
+                            android:text="-2"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/show_ingredientes3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:clickable="false"
+                            android:hint="-3"
+                            android:padding="15dp"
+                            android:text="-3"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="12dp"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:gravity="center"
+                            android:paddingBottom="15dp"
+                            android:paddingTop="15dp"
+                            android:text="@string/Modo_de_Preparo"
+                            android:textColor="#ffffffff"
+                            android:textSize="17sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/show_mod"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:hint="-1"
+                            android:padding="15dp"
+                            android:text="-1"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/show_mod2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:hint="-2"
+                            android:padding="15dp"
+                            android:text="-2"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/show_mod3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/space24"
+                            android:layout_marginLeft="@dimen/space24"
+                            android:layout_marginRight="@dimen/space24"
+                            android:layout_marginTop="3dp"
+                            android:background="@drawable/textstyle"
+                            android:hint="-3"
+                            android:padding="15dp"
+                            android:text="-3"
+                            android:textColor="#333333"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <com.github.piasy.chatrecyclerview.ChatRecyclerView
+                            android:id="@+id/recyclerView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentBottom="true" />
+
+                        <include
+                            layout="@layout/chat_send"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

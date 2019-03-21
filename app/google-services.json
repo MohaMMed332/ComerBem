@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955911430021",
+    "firebase_url": "https://appcomerbem.firebaseio.com",
+    "project_id": "appcomerbem",
+    "storage_bucket": "appcomerbem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955911430021:android:3ba2089515568578",
+        "android_client_info": {
+          "package_name": "com.mohammed.tcmc.ComerBem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955911430021-vf6kuj8bkad2ujv3ne8mp0b1ujhbbtc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammed.tcmc.ComerBem",
+            "certificate_hash": "f00d64e623cf286a6a59cc910020b3f0213b85cc"
+          }
+        },
+        {
+          "client_id": "955911430021-ao69p0o5gr5kkik7jojvoek15q7pq53q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGPwfYu65NBX7gNToQp-wAka8eIiSiHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955911430021-ao69p0o5gr5kkik7jojvoek15q7pq53q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

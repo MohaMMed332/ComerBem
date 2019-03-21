@@ -1,0 +1,178 @@
+<resources>
+    <string name="fb_app_id">267070673975647</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="custom_theme">Custom Theme</string>
+    <string name="toast_button_cta">TEST</string>
+    <!--Facebook-->
+    <string name="FACEBOOK_APP_ID">267070673975647</string>
+    <string name="account_kit_client_token">216eee5a08daa4c0d9b114c527562e22</string>
+    <string name="ak_login_protocol_scheme">ak216eee5a08daa4c0d9b114c527562e22</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">216eee5a08daa4c0d9b114c527562e22</string>
+    <!--Facebook-->
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_header_subtitle">Deliciosas receitas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_action_cut">Cut</string>
+    <string name="title_action_copy">Copy</string>
+    <string name="title_action_delete">Delete</string>
+    <string name="title_action_share">Share</string>
+    <string name="title_activity_name_picker">NamePickerActivity</string>
+    <string name="send">Send</string>
+    <string name="avatar">avatar</string>
+    <string name="deconnexion">Exit</string>
+    <string name="title_activity_book_life">BookLife</string>
+    <string name="action_update" />
+    <string name="title_activity_edit_product">EditProductActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+    <!-- TODO: remove this placeholder text -->
+    <string name="title_menu_reset_first_start">Reset "First start" flag</string>
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="error_incorrect_password">Error Incorrect Password</string>
+    <string name="inserir_image">Favor inserir uma imagem!</string>
+    <string name="label_button_cta_canteen_intro" translatable="false">Get started</string>
+
+
+    <string name="chat">Word/chat/grupos</string>
+    <string name="comments">Word/chat/comments</string>
+    <string name="Grupos">Word/chat/Grupos</string>
+    <string name="patepabo">Word/chat/public</string>
+    <string name="Word">Word/Word/public</string>
+    <string name="Resitas">Word/Resitas/</string>
+    <string name="categoria">Word/categoria/food</string>
+    <string name="categoriaGrupos">Word/categoria/Grupos</string>
+
+
+    <string name="Sobre_Nome">last name</string>
+    <string name="Confirme_a_saهda">Confirm exit</string>
+    <string name="app_name">Eat well</string>
+    <string name="Comer_Bem">Eat well</string>
+    <string name="Deliciosas_receitas">Recipes</string>
+    <string name="Faça_o_seu_pedido">Choose your recipe</string>
+    <string name="O_poder_dos_alimentos">The forces come from healthy food</string>
+    <string name="Estamos_a_disposição">We are at your disposal</string>
+    <string name="Sugestões">Suggestions</string>
+    <string name="Benefícios_de_uma_alimentação_saudável">Benefits of healthy eating</string>
+    <string name="Quanto_mais_cor_melhor">The more healthy the food, the better</string>
+    <string name="Crie_sua_conta_grátis">Create your account for free</string>
+    <string name="Junte_se_a_mais_de_meio_milhão_de_pessoas_e_comece_ja">Join over half a million people and start now</string>
+    <string name="Cadastro">subscribe now</string>
+    <string name="Já_tenho_conta">I already have an account</string>
+    <string name="Nome">Forename</string>
+    <string name="Email">Email Address</string>
+    <string name="Telefone">Telephone number</string>
+    <string name="Senha">password</string>
+    <string name="Confirmar_senha">Retype password</string>
+    <string name="Cadastrar">Subscribe</string>
+    <string name="Termos_de_uso">I am registered</string>
+    <string name="Entrar">Access</string>
+    <string name="Publicações">Public</string>
+    <string name="Perfil">Arithmetic</string>
+    <string name="Chat">Chat</string>
+    <string name="Mais">More</string>
+    <string name="Suporte">Staff</string>
+    <string name="Fechar_o_menu">Close the menu</string>
+    <string name="Sobre_o_APP">Information about the application</string>
+    <string name="Fale_conosco">Contact the staff</string>
+    <string name="Sair">Exit</string>
+    <string name="Digite_aqe">write here...</string>
+    <string name="Nome_da_receita">Name of description</string>
+    <string name="Ingredientes">Requirements</string>
+    <string name="Modo_de_Preparo">How to prepare</string>
+    <string name="Apagar_mensagem">Delete the message</string>
+    <string name="Tem_certeza_que_quer_apagar_esta_mensagem">Are you sure you want to delete the message</string>
+    <string name="Sim">Yeah</string>
+    <string name="Não">noا</string>
+    <string name="Carregando">جاري التحميل </string>
+    <string name="Upload_de_imagem">Upload de imagem</string>
+    <string name="não_carregou">Failed to load</string>
+    <string name="Tem_certeza_que_quer_sair">هل متأكد حقا من الخروج</string>
+    <string name="Entrou">Accessed</string>
+    <string name="Desconhecido">Unknown</string>
+    <string name="Favor_preencher">Please fill in the field</string>
+    <string name="Carregamento_completo">uploaded</string>
+    <string name="Preencher_a_senha">Fill in the Password field</string>
+    <string name="Preencher_o_email">Fill in the EML field</string>
+    <string name="Preencher_o_nome">Fill in the Name field</string>
+    <string name="Preencher_o_telefone">Fill in the phone field</string>
+    <string name="Digite_uma_senha_mais_forte">Choose a default password</string>
+    <string name="Por_favor_digite_um_email_válido">Please write a valid email</string>
+    <string name="Esta_conta_já_foi_cadastrada">This account has already been registered</string>
+    <string name="Erro_ao_cadastrar">Error recording</string>
+    <string name="Não_pod_carregar_este_tamanho_de_imagem">The image size is incorrect</string>
+    <string name="Cancelar">Cancel</string>
+    <string name="Usuário_não_cadastrado">This account is not registered</string>
+    <string name="Email_e_senha_não_correspondem_a_um_usuário_cadastrado">Email and password do not match a registered user</string>
+    <string name="Erro_ao_cadastrar_usuário">Error recording user</string>
+    <string name="Sem_conexão">Is offline</string>
+    <string name="Favor_deixar_seu_comentário">Please leave your comment</string>
+    <string name="Sair_da_conta">Sign out of account</string>
+    <string name="Você_realmente_quer_sair_da_conta">You really want to sign out of the account</string>
+    <string name="AboutText">An application, which presents healthy recipes that privilege the best ingredients of Brazilian food and takes into consideration the balance of the pleasures of the table with good form and health. Among vegetarian dishes, poultry, meats, desserts, risottos and accompaniments, diet and light, starters and salads, pasta, fish and seafood, barbecues and grills, starters and special dinners. A practical guide with tips for all the people who look for a healthy and pleasant diet in the day to day.</string>
+    <string name="Sobre_Comer_Bem">All about well</string>
+    <string name="Comer_Bem_v">Application version</string>
+
+
+    <string name="Confirma_a_senha">Fill in the Password field</string>
+    <string name="Error_Conf_senha">Password does not match</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="EmailP">Email</string>
+    <string name="NomeP">Nome Completo</string>
+    <string name="TelefoneP">Telefone</string>
+    <string name="SexoP">Sexo</string>
+    <string name="SenhaP">Novo Senha</string>
+    <string name="SexoFP">Sexo Feminina</string>
+    <string name="SexoMP">Masculino</string>
+    <string name="SexoOP">SexoO</string>
+    <string name="CidadeP">Cidade</string>
+    <string name="EstadoP">Estado</string>
+    <string name="DataNP">Aniversário</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

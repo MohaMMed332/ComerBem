@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background_comment"
+    android:orientation="vertical"
+    android:padding="4dp"
+    tools:context=".Publicar.AddProductActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical">
+
+            <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="@dimen/space24"
+                android:layout_marginRight="@dimen/space24"
+                android:layout_marginTop="12dp"
+                android:background="#F44336"
+                android:gravity="center"
+                app:corner_radius="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <!-- simple:simple_tag_text="novo"!-->
+
+                    <net.wujingchao.android.view.SimpleTagImageView
+                        android:id="@+id/add_imge"
+                        android:layout_width="1000dp"
+                        android:layout_height="250dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/pad_5dp"
+                        android:onClick="imageView_click"
+                        app:srcCompat="@drawable/png_natal" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_name"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:gravity="center"
+                        android:hint="@string/Nome_da_receita"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="12dp"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:gravity="center"
+                        android:hint="Modo"
+                        android:paddingBottom="15dp"
+                        android:paddingTop="15dp"
+                        android:text="@string/Ingredientes"
+                        android:textColor="#ffffffff"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Ingredientes"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-1"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Ingredientes2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-2"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Ingredientes3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-3"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="12dp"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:gravity="center"
+                        android:hint="Modo"
+                        android:paddingBottom="15dp"
+                        android:paddingTop="15dp"
+                        android:text="@string/Modo_de_Preparo"
+                        android:textColor="#ffffffff"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Modo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-1"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Modo2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-2"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/add_Modo3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginLeft="@dimen/space24"
+                        android:layout_marginRight="@dimen/space24"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/textstyle"
+                        android:drawablePadding="@dimen/space8"
+                        android:hint="-3"
+                        android:padding="15dp"
+                        android:textColor="@color/apploizc_black_color"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <include
+        layout="@layout/button_add_product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+
+

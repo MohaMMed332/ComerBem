@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mohammed.tcmc.ComerBem">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FirebaseLogin.CadastroActivity" />
+        <activity android:name=".FirebaseLogin.LoginActivity" />
+        <activity
+            android:name=".activity.PrincipalActivity"
+            android:label="@string/title_activity_principal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Publicar.Edit"
+            android:label="@string/title_activity_edit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Publicar.AddProductActivity" />
+        <activity
+            android:name=".edit_activities.EditProductActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_edit_product"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".chat.ChatActivity" />
+        <activity android:name=".food.DetailActivity" />
+        <activity android:name=".food.ReceitasActivity" />
+        <activity android:name=".food.Aves" />
+        <activity android:name=".activity.ProfailActivity" />
+        <activity android:name=".activity.SendImageActivity" />
+        <activity android:name=".activity.ImageComent" />
+        <activity android:name=".Menu_Home.About_Menu" />
+        <activity android:name=".FirebaseLogin.FacebookKitActivity" />
+
+
+        <meta-data
+            android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/FACEBOOK_APP_ID" />
+        <meta-data
+            android:name="com.facebook.accountkit.ClientToken"
+            android:value="@string/ACCOUNT_KIT_CLIENT_TOKEN" />
+
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/LoginCustomTheme"
+            tools:replace="android:theme" />
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitEmailRedirectActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/ak_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FirebaseLogin.EntraActivity" />
+        <activity android:name=".activity.EditProfileActivity" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Intro" />
+        <activity android:name=".chat.ListGrupos" />
+        <activity android:name=".chat.ChatGrupo" />
+        <activity android:name=".chat.GrpuosAdapter"></activity>
+    </application>
+
+</manifest>

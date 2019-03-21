@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Confirme_a_saهda">Confirme a saída?</string>
+    <string name="Upload_de_imagem">Upload de imagem</string>
+    <string name="Sair_da_conta">Sair da conta</string>
+    <string name="Você_realmente_quer_sair_da_conta">Você realmente quer sair da conta</string>
+    <string name="Confirma_a_senha">Preencher local de confirmar senha</string>
+    <string name="Error_Conf_senha">Senha não corresponde</string>
+
+
+
+
+
+    <string name="chat">português/chat/grupos</string>
+    <string name="comments">português/chat/comments</string>
+    <string name="Grupos">português/chat/Grupos</string>
+    <string name="patepabo">português/chat/public</string>
+    <string name="Word">português/Word/public</string>
+    <string name="Resitas">português/Resitas/</string>
+    <string name="categoria">português/categoria/food</string>
+    <string name="categoriaGrupos">português/categoria/Grupos</string>
+
+
+
+
+
+
+    <string name="app_name">Comer Bem</string>
+    <string name="Comer_Bem"> Comer Bem</string>
+    <string name="Deliciosas_receitas">Deliciosas receitas</string>
+    <string name="Faça_o_seu_pedido">Escolha a sua receita</string>
+    <string name="O_poder_dos_alimentos">O poder dos alimentos</string>
+    <string name="Estamos_a_disposição">Estamos a disposição</string>
+    <string name="Sugestões">Sugestões</string>
+    <string name="Benefícios_de_uma_alimentação_saudável">Benefícios de uma alimentação saudável</string>
+    <string name="Quanto_mais_cor_melhor">Quanto mais cor, melhor!</string>
+    <string name="Crie_sua_conta_grátis">Crie sua conta grátis</string>
+    <string name="Junte_se_a_mais_de_meio_milhão_de_pessoas_e_comece_ja">Junte-se a mais de meio milhão de pessoas e comece já</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="Já_tenho_conta">Já tenho conta</string>
+    <string name="Nome">Primeiro nome</string>
+    <string name="Sobre_Nome">Sobrenome</string>
+    <string name="Email">E-mail</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Senha">Senha</string>
+    <string name="Confirmar_senha">Confirmar senha</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Termos_de_uso">Termos de uso</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Publicações">Publicações</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Chat">Chat</string>
+    <string name="Mais">Mais</string>
+    <string name="Suporte">Suporte</string>
+    <string name="Fechar_o_menu">Fechar o menu</string>
+    <string name="Sobre_o_APP">Sobre o APP</string>
+    <string name="Fale_conosco">Fale conosco</string>
+    <string name="Sair">Sair</string>
+    <string name="Digite_aqe">Digite aqui ...</string>
+    <string name="Nome_da_receita">Nome da receita</string>
+    <string name="Ingredientes">Ingredientes</string>
+    <string name="Modo_de_Preparo">Modo de Preparo</string>
+    <string name="Apagar_mensagem">Apagar mensagem</string>
+    <string name="Tem_certeza_que_quer_apagar_esta_mensagem">Tem certeza que quer apagar esta mensagem?</string>
+    <string name="Sim">Sim</string>
+    <string name="Não">Não</string>
+    <string name="Carregando">Carregando</string>
+    <string name="não_carregou">Não carregou </string>
+    <string name="Tem_certeza_que_quer_sair">Tem certeza que quer sair?</string>
+    <string name="Entrou">Entrou</string>
+    <string name="Desconhecido">Desconhecido</string>
+    <string name="Favor_preencher">Favor preencher</string>
+    <string name="Carregamento_completo">Carregamento completo</string>
+    <string name="Preencher_a_senha">Preencher a senha</string>
+    <string name="Preencher_o_email">Preencher o e-mail</string>
+    <string name="Preencher_o_nome">Preencher o nome</string>
+    <string name="Preencher_o_telefone">Preencher o telefone</string>
+    <string name="Digite_uma_senha_mais_forte">Digite uma senha mais forte</string>
+    <string name="Por_favor_digite_um_email_válido">Por favor, digite um e-mail válido</string>
+    <string name="Esta_conta_já_foi_cadastrada">Esta conta já foi cadastrada</string>
+    <string name="Erro_ao_cadastrar">Erro ao cadastrar </string>
+    <string name="Não_pod_carregar_este_tamanho_de_imagem">Não pode carregar este tamanho de imagem</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Usuário_não_cadastrado">Usuário não cadastrado</string>
+    <string name="Email_e_senha_não_correspondem_a_um_usuário_cadastrado">E-mail e senha não correspondem a um usuário cadastrado</string>
+    <string name="Erro_ao_cadastrar_usuário">Erro ao cadastrar usuário</string>
+    <string name="Sem_conexão">Sem conexão</string>
+    <string name="Favor_deixar_seu_comentário">Favor deixar seu comentário</string>
+
+
+
+    <string name="AboutText">Um aplicativo, em que se apresenta receitas saudáveis que privilegiam os melhores ingredientes da comida brasileira e leva em consideração o equilíbrio dos prazeres da mesa com a boa forma e a saúde. Entre pratos vegetarianos, aves, carnes, sobremesas, risotos e acompanhamentos, diet e light, entradas e saladas, massas, peixes e frutos do mar, churrascos e grelhados, entradas e jantares especiais. Um guia prático com dicas para todas as pessoas que buscam uma alimentação saudável e prazerosa no dia a dia.</string>
+    <string name="Sobre_Comer_Bem">Sobre Comer Bem</string>
+    <string name="Comer_Bem_v">Sobre Comer Bem</string>
+
+
+
+
+
+
+    <string name="EmailP">Email</string>
+    <string name="NomeP">Nome Completo</string>
+    <string name="TelefoneP">Telefone</string>
+    <string name="SexoP">Sexo</string>
+    <string name="SenhaP">Novo Senha</string>
+    <string name="SexoFP">Sexo Feminina</string>
+    <string name="SexoMP">Masculino</string>
+    <string name="SexoOP">SexoO</string>
+    <string name="CidadeP">Cidade</string>
+    <string name="EstadoP">Estado</string>
+    <string name="DataNP">Aniversário</string>
+
+
+</resources>

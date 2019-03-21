@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_on_github">Show on GitHub</string>
+    <string name="Carnes">Carnes</string>
+    <string name="Comidas_Brasileiras">Comidas Brasileiras</string>
+    <string name="Diet_e_Light">Diet e Light</string>
+    <string name="Entradas_e_Saladas">Entradas e Saladas</string>
+    <string name="Massas">Massas</string>
+    <string name="Peixes_e_Frutas_do_Mar">Peixes e Frutas do Mar</string>
+    <string name="Risotos_e_Acompanhamentos">Risotos e Acompanhamentos</string>
+    <string name="Sobremesas">Sobremesas</string>
+    <string name="Vegeterianas">Vegeterianas</string>
+    <string name="Churrascos_e_grelhados">Churrascos e Grelhados</string>
+
+
+
+    <string name="Aves1">Sobrecoxas ao Molho Vermelho</string>
+    <string name="Aves2">Estrogonofe de Frango</string>
+    <string name="Aves3">Chester ao Maracujá</string>
+    <string name="Aves4">Cubos de Frango Caipira</string>
+    <string name="Aves5">Frango à Moda Árabe</string>
+    <string name="Aves6">Frango ao Molho</string>
+    <string name="Aves7">Frango com Alecrim</string>
+    <string name="Aves8">Frango Empanado Recheado</string>
+    <string name="Aves9">Frango Oriental</string>
+    <string name="Aves10">Frango 4 Ervas</string>
+    <string name="Aves11">Steak ao Queijo</string>
+    <string name="Aves12">Galinhada</string>
+    <string name="Aves13">Rolinhos Recheados</string>
+    <string name="Aves14">Show on GitHub</string>
+    <string name="Aves15">Offer me a beer to reward me if that application have helped you.</string>
+
+
+
+    <string name="Carnes1">Bracciola</string>
+    <string name="Carnes2">Almôndgas à Brasileira</string>
+    <string name="Carnes3">Bibe â Rolê</string>
+    <string name="Carnes4">Bife de Gala</string>
+    <string name="Carnes5">Bife Enrolado com Salsicha</string>
+    <string name="Carnes6">Bolo de Carne</string>
+    <string name="Carnes7">Carne ao Pepperoni</string>
+    <string name="Carnes8">Iscas de Filé ao Molho de Pimentão</string>
+    <string name="Carnes9">Cebolas Recheadas</string>
+    <string name="Carnes10">Espetinhos Caprichados</string>
+    <string name="Carnes11">Guisado de Carne</string>
+    <string name="Carnes12">Iscas de Carne</string>
+    <string name="Carnes13">Lombo ao Molho de Coco e Abacaxi</string>
+    <string name="Carnes14">Maminha no Alho</string>
+    <string name="Carnes15">Escalopes Flambados</string>
+
+
+
+    <string name="Comidas_Brasileiras1">Centro-oeste - Arroz com Pequi</string>
+    <string name="Comidas_Brasileiras2">Centro-oeste - Peixada de Forno</string>
+    <string name="Comidas_Brasileiras3">Centro-oeste - Pernil de Javali ao Molho Madeira</string>
+    <string name="Comidas_Brasileiras4">Norte/Nordeste - Acarajé</string>
+    <string name="Comidas_Brasileiras5">Norte/Nordeste - Baião de Dois</string>
+    <string name="Comidas_Brasileiras6">Norte/Nordeste - Bobó de Camarão</string>
+    <string name="Comidas_Brasileiras7">Norte/Nordeste - Moqueca de Camarão</string>
+    <string name="Comidas_Brasileiras8">Sudeste - Feijoada</string>
+    <string name="Comidas_Brasileiras9">Sudeste - Picadinho de Carne</string>
+    <string name="Comidas_Brasileiras10">Sudeste - Vaca Atolada</string>
+    <string name="Comidas_Brasileiras11">Sudeste - Feijão Tropeiro</string>
+    <string name="Comidas_Brasileiras12">Sul - Arroz de Carreteiro</string>
+    <string name="Comidas_Brasileiras13">Sul - Barreado</string>
+    <string name="Comidas_Brasileiras14">Sul - Cozido dos Pampas</string>
+    <string name="Comidas_Brasileiras15">Sul - Roupa Velha</string>
+
+
+    <string name="Diet_e_Light1">Bacalhau ao Forno</string>
+    <string name="Diet_e_Light2">Bolo Festa</string>
+    <string name="Diet_e_Light3">Cheese cake com Iogurte</string>
+    <string name="Diet_e_Light4">Esfiha Light de Frango</string>
+    <string name="Diet_e_Light5">Fettuccine ao  Basílico</string>
+    <string name="Diet_e_Light6">Frango Saboroso</string>
+    <string name="Diet_e_Light7">Gelado Light de Café</string>
+    <string name="Diet_e_Light8">Gelatina Fácil</string>
+    <string name="Diet_e_Light9">Linguado com Molho de Ervas</string>
+    <string name="Diet_e_Light10">Maki-Sushi de Peru Light</string>
+    <string name="Diet_e_Light11">Paillard com Ricota</string>
+    <string name="Diet_e_Light12">Quiche de Champignon e Cenoura</string>
+    <string name="Diet_e_Light13">Salpicão Light</string>
+    <string name="Diet_e_Light14">Sopa de Abóbora e Requeijão</string>
+    <string name="Diet_e_Light15">Torta de Queijo e Damascos</string>
+
+
+    <string name="Entradas1">Antepasto Italiano</string>
+    <string name="Entradas2">Casquinha de Siri</string>
+    <string name="Entradas3">Macarrão Frito</string>
+    <string name="Entradas4">Mousse de Roquefort</string>
+    <string name="Entradas5">Petiscos de Carne</string>
+    <string name="Entradas6">Salada com Molho de Coentro</string>
+    <string name="Entradas7">Salada de Abacate e Abobrinha</string>
+    <string name="Entradas8">Salada de Arroz Selvagem e Tomates</string>
+    <string name="Entradas9">Carpaccio com molho de Azeitonas</string>
+    <string name="Entradas10">Salada de Espinafre com Creme de Framboesa</string>
+    <string name="Entradas11">Salada de lulas e Radicchio</string>
+    <string name="Entradas12">Salada Oriental</string>
+    <string name="Entradas13">Salada tropical</string>
+    <string name="Entradas14">Salpicão de Frango Diferente</string>
+    <string name="Entradas15">Tortilhas Mexicanas</string>
+
+
+
+
+    <string name="Massas1">Farfalle ao Molho de Frango</string>
+    <string name="Massas2">Espaguete à Moda da Fazenda</string>
+    <string name="Massas3">Espaguete Mares do Sul</string>
+    <string name="Massas4">Gravatinhas com Calabresa</string>
+    <string name="Massas5">Lasanha da Nona</string>
+    <string name="Massas6">Macarrão ao Molho de Abóbora</string>
+    <string name="Massas7">Macarrão com Lombinho</string>
+    <string name="Massas8">Macarrão de Pressão</string>
+    <string name="Massas9">Macarrão Oriental Expresso</string>
+    <string name="Massas10">Macarrão Pizza</string>
+    <string name="Massas11">Trouxinhas ao Molho de Queijo</string>
+    <string name="Massas12">Panqueca de Camarão</string>
+    <string name="Massas13">Parafuso com Molho Espanhol</string>
+    <string name="Massas14">Parafuso com Polpetinhas de Calabresa</string>
+    <string name="Massas15">Talharim à Bolonhesa</string>
+
+
+
+    <string name="Peixes_e_Frutas_do_Mar1">Almôndegas do Mar</string>
+    <string name="Peixes_e_Frutas_do_Mar2">Salmão ao Molho de Aspargos</string>
+    <string name="Peixes_e_Frutas_do_Mar3">Estrogonofe de Peixe</string>
+    <string name="Peixes_e_Frutas_do_Mar4">Feijoada de Frutos do Mar</string>
+    <string name="Peixes_e_Frutas_do_Mar5">Filé ao Molho Rosê</string>
+    <string name="Peixes_e_Frutas_do_Mar6">Filés de Peixe Cítricos</string>
+    <string name="Peixes_e_Frutas_do_Mar7">Grelhado com creme Rosê</string>
+    <string name="Peixes_e_Frutas_do_Mar8">Hambúrguer de Peixe</string>
+    <string name="Peixes_e_Frutas_do_Mar9">Moqueca de Peixe</string>
+    <string name="Peixes_e_Frutas_do_Mar10">Peixe à Parmegiana</string>
+    <string name="Peixes_e_Frutas_do_Mar11">Peixe Acebolado</string>
+    <string name="Peixes_e_Frutas_do_Mar12">Peixe ao Pepperoni</string>
+    <string name="Peixes_e_Frutas_do_Mar13">Peixe com Alcaparra e Abobrinha</string>
+    <string name="Peixes_e_Frutas_do_Mar14">Peixe de Praia</string>
+    <string name="Peixes_e_Frutas_do_Mar15">Rolinhos de Peixe ao Forno</string>
+
+
+
+    <string name="Risotos_e_Acompanhamentos1">Abobrinha à Nossa Moda</string>
+    <string name="Risotos_e_Acompanhamentos3">Arroz de Coco</string>
+    <string name="Risotos_e_Acompanhamentos4">Berinjela à Parmegiana</string>
+    <string name="Risotos_e_Acompanhamentos5">Escalopes de Batata</string>
+    <string name="Risotos_e_Acompanhamentos6">Farofa de A</string>
+    <string name="Risotos_e_Acompanhamentos7">Feijoada Vegetariana</string>
+    <string name="Risotos_e_Acompanhamentos8">Lasanha Vegetariana</string>
+    <string name="Risotos_e_Acompanhamentos9">Ovos Pochê com Ervilhas</string>
+    <string name="Risotos_e_Acompanhamentos10">Pimentão Recheado</string>
+    <string name="Risotos_e_Acompanhamentos11">Polenta Cremosa com Escarola</string>
+    <string name="Risotos_e_Acompanhamentos12">Quiche de Alho-poró</string>
+    <string name="Risotos_e_Acompanhamentos13">Risoto Seleta de Frango</string>
+    <string name="Risotos_e_Acompanhamentos14">Suflê de Cenoura</string>
+    <string name="Risotos_e_Acompanhamentos15">Torta Prática de Peixe</string>
+
+
+
+    <string name="Sobremesas1">Arroz-doce à Moda Antiga</string>
+    <string name="Sobremesas2">Banana Flambada</string>
+    <string name="Sobremesas3">Crepe de Nozes com Sorvete de Doce de Leite</string>
+    <string name="Sobremesas4">Estrogonofe de Chocolate e Nozes</string>
+    <string name="Sobremesas5">Gelado Bariloche</string>
+    <string name="Sobremesas6">Manjar Branco</string>
+    <string name="Sobremesas7">Manjar Cremoso de Caju com Morango</string>
+    <string name="Sobremesas8">Mousse de Coco</string>
+    <string name="Sobremesas9">Pavê de Coco e Chocolate</string>
+    <string name="Sobremesas10">Profiteroles com Tartufo e Cobertura de Chocolate</string>
+    <string name="Sobremesas11">Pudim de Coco</string>
+    <string name="Sobremesas12">Sobremesa de Verão</string>
+    <string name="Sobremesas13">Torta de Coco e Abacaxi</string>
+    <string name="Sobremesas14">Torta de Limão</string>
+    <string name="Sobremesas15">Trufas de Chocolates com Pimenta</string>
+
+
+    <string name="Vegeterianas1">Antepasto de Beringelas</string>
+    <string name="Vegeterianas2">Arroz ao Pesto</string>
+    <string name="Vegeterianas3">Arroz Colorido com Trigo</string>
+    <string name="Vegeterianas4">Bolinho de Soja com Maionese</string>
+    <string name="Vegeterianas5">Brócolis ao Molho Escuro</string>
+    <string name="Vegeterianas6">Chuchu com Queijo Provolone</string>
+    <string name="Vegeterianas7">Sopa de Alface</string>
+    <string name="Vegeterianas8">Lasanha 4 Queijos</string>
+    <string name="Vegeterianas9">Mousse de Cenoura</string>
+    <string name="Vegeterianas10">Penne ao Molho de Tomates e Aceto Balsâmico</string>
+    <string name="Vegeterianas11">Rigatone ao Forno</string>
+    <string name="Vegeterianas12">Rocambole de Espinafre</string>
+    <string name="Vegeterianas13">Sopa Cremosa de Milho</string>
+    <string name="Vegeterianas14">Torta de Brócolis</string>
+    <string name="Vegeterianas15">Trouxinhas de Palmito com Shimeji</string>
+
+
+
+
+
+    <string name="Churrascos_e_grelhados1">Arroz para Churrasco</string>
+    <string name="Churrascos_e_grelhados2">Contra-Filé com Purê de Inhame e Castanha</string>
+    <string name="Churrascos_e_grelhados3">Contra-Filé com Molho Árabe</string>
+    <string name="Churrascos_e_grelhados4">Peito de Frango com Pirão de Maracujá</string>
+    <string name="Churrascos_e_grelhados5">Picanha com Farofa</string>
+    <string name="Churrascos_e_grelhados6">Medalhões de Alcatra com Panaché de Legumes</string>
+    <string name="Churrascos_e_grelhados7">Salmão ao Mascavo com Purê de Couve-Flor</string>
+    <string name="Churrascos_e_grelhados8">Maminha ao tempero com Azeitonas</string>
+    <string name="Churrascos_e_grelhados9">Medalhões de Berinjela e Tomate</string>
+    <string name="Churrascos_e_grelhados10">Peito de Frango com Molho de Pêssego</string>
+    <string name="Churrascos_e_grelhados11">Filé de Frango ao Creme de Parmesão e Rúcula</string>
+    <string name="Churrascos_e_grelhados12">Picanha ao Gengibre</string>
+    <string name="Churrascos_e_grelhados13">Atum com Molho de Tomates</string>
+    <string name="Churrascos_e_grelhados14">Hambúrguer com Shimeji ao Vinho</string>
+
+</resources>

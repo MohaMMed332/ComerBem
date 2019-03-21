@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:simple="http://schemas.android.com/apk/res-auto"
+    android:background="@color/apploizc_dark_black_color"
+    tools:context=".activity.SendImageActivity">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#ffffff"
+        android:gravity="center"
+        app:corner_radius="30dp">
+
+
+        <net.wujingchao.android.view.SimpleTagImageView
+            android:id="@+id/imgehome"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:onClick="imageButtonClick"
+            android:src="@drawable/png_natal"
+            simple:simple_corner_distance="30dp"
+            simple:simple_tag_background_color="#af27CDC0"
+            simple:simple_tag_enable="true"
+            simple:simple_tag_orientation="left_bottom"
+            simple:simple_tag_round_radius="20dp"
+            simple:simple_tag_textColor="@android:color/white"
+            simple:simple_tag_textSize="18sp"
+            simple:simple_tag_width="20dip" />
+
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+
+
+    <include
+        layout="@layout/chat_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="490dp"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>
